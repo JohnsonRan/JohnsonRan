@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![I Am I's github stats](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=JohnsonRan&show_icons=true&count_private=true)](https://github.com/JohnsonRan/JohnsonRan)
+[![I Am I's github stats](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=JohnsonRan&show_icons=true&count_private=true)](https://github.com/JohnsonRan/JohnsonRan)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonRan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📫 How to reach me: 
 
