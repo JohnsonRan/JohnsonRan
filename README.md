@@ -4,7 +4,7 @@
 
 A 18 y.o random noob  
 A *student* of **[@HMUniversity](https://github.com/HMUniversity)**  
-I'm currectly learning Android and Operating System(probably).  
+I'm currectly learning Japanese(probably).  
 
 **Visitors (Since 2022/2/12)**
 ![](https://count.getloli.com/get/@JohnsonRan?theme=rule34)
@@ -50,7 +50,3 @@ I'm currectly learning Android and Operating System(probably).
 ### 📫 Contact Me
 - Telegram: [@JohnsonRan](https://t.me/JohnsonRan)
 - Email: me@e11z.net
-
-## 🎉 Thanks:
-
-Thanks to [`爱玩网络`](https://wngamebox.cn) for providing me network and computing resources

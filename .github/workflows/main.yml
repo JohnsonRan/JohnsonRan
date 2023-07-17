@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Generate GitHub Metrics
+name: Metrics
 on:
   # Schedule updates (At 10:00 on Monday)
   schedule: [{cron: "0 10 * * 1"}]
@@ -12,46 +12,31 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
-          #  - public_repo
-          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           user: JohnsonRan
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: CST
+          config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_calendar: yes
-          plugin_calendar_limit: 2
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_calendar_limit: 1
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -67,13 +52,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_repositories: yes
-          plugin_repositories_order:  pinned, starred, random
-      - name: Checkout the repository
-        uses: actions/checkout@master
-          
+          plugin_stars: yes
+          plugin_stars_limit: 2
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: 76561198971479568
