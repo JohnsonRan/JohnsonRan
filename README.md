@@ -1,4 +1,4 @@
-<img align="right" src="./github-metrics.svg" />
+<img align="right" src="https://raw.githubusercontent.com/JohnsonRan/JohnsonRan/metrics-renders/github-metrics.svg" />
 
 ## Hi there, I'm JohnsonRan 👋
 
@@ -16,13 +16,12 @@ I'm currectly learning Japanese(probably).
 <p>
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/iOS%2016.4-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/iOS%2017.0-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/ProxmoxVE-1D99F3?logo=proxmox&style=for-the-badge" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/TRUENAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Debian%20sid-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Debian%20sid-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="display: inline-block" />
 </p>
 
 ## 💻 My Specs
