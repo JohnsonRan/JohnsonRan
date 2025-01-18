@@ -9,14 +9,14 @@ I'm currectly learning Japanese(probably).
 **Visitors (Since 2022/2/12)**  
 ![](https://count.getloli.com/get/@JohnsonRan?theme=rule34)
 
-<a href="https://e11z.net"><img src="https://img.shields.io/website?ddown_message=Offline&label=e11z.net&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fe11z.net" width="auto" height="32"></a>
+<a href="https://blog.ihtw.moe"><img src="https://img.shields.io/website?ddown_message=Offline&label=blog.ihtw.moe&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.ihtw.moe" width="auto" height="32"></a>
 
 ------
 
 <p>
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/iOS%2017.4-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/iOS%2018.3-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/ProxmoxVE-1D99F3?logo=proxmox&style=for-the-badge" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" style="display: inline-block" />
@@ -45,4 +45,4 @@ I'm currectly learning Japanese(probably).
 -------
 ### 📫 Contact Me
 - Telegram: [@JohnsonRan](https://t.me/JohnsonRan)
-- Email: me@e11z.net
+- Email: me@ihtw.moe
