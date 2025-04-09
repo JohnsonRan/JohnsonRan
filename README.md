@@ -2,12 +2,12 @@
 
 ## Hi there, I'm JohnsonRan 👋
 
-A 20 y.o random noob  
+A 21 y.o random noob  
 A *student* of **[@HMUniversity](https://github.com/HMUniversity)**  
 I'm currectly learning Japanese(probably).  
 
-**Visitors (Since 2022/2/12)**  
-![](https://count.getloli.com/get/@JohnsonRan?theme=rule34)
+**Visitors**  
+![](https://count.getloli.com/get/@JohnsonRan?theme=3d-num)
 
 <a href="https://blog.ihtw.moe"><img src="https://img.shields.io/website?ddown_message=Offline&label=blog.ihtw.moe&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.ihtw.moe" width="auto" height="32"></a>
 
@@ -15,8 +15,8 @@ I'm currectly learning Japanese(probably).
 
 <p>
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/iOS%2018.3-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Android%2015-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/iOS%2018.5-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/ProxmoxVE-1D99F3?logo=proxmox&style=for-the-badge" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" style="display: inline-block" />
@@ -26,6 +26,7 @@ I'm currectly learning Japanese(probably).
 
 <p>
   <img src="https://img.shields.io/badge/iPhone%2014%20Pro%20Max-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Apple%20Watch%20S10-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/OnePlus%207%20Pro-F5010C?style=for-the-badge&logo=oneplus&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/ROG-Zephyrus%20G16-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/AMD-5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="display: inline-block" />
