@@ -25,12 +25,11 @@ I'm currectly learning Japanese.
 ## 💻 My Specs
 
 <p>
-  <img src="https://img.shields.io/badge/iPhone%2014%20Pro%20Max-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Apple%20Watch%20S10-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/OnePlus%207%20Pro-F5010C?style=for-the-badge&logo=oneplus&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/ROG-Zephyrus%20G16-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/AMD-5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX4070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/iPhone%2017%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Apple%20Watch%20S11-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/MacBook%20Air%20M4-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/AMD-9950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/RTX-5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="display: inline-block" />
 </p>
 
 <p>
