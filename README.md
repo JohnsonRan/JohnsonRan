@@ -47,9 +47,11 @@
   <img src="https://img.shields.io/badge/Apple%20Watch-S11-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
+## 🧰 Daily Drivers
+
 <p>
   <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
-  <img src="https://img.shields.io/badge/pi-coding%20agent-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CF%80%20pi-Coding%20Agent-F75C7E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
