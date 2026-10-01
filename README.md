@@ -1,47 +1,74 @@
-<img align="right" src="https://raw.githubusercontent.com/JohnsonRan/JohnsonRan/metrics-renders/github-metrics.svg" />
+<div align="center">
 
-## Hi there, I'm JohnsonRan 👋
-
-A 21 y.o random noob.  
-A *student* of **[@HMUniversity](https://github.com/HMUniversity)**.  
-I'm currectly learning Japanese.  
-
-**Visitors**  
-![](https://count.getloli.com/get/@JohnsonRan?theme=3d-num)
-
-<a href="https://blog.ihtw.moe"><img src="https://img.shields.io/website?ddown_message=Offline&label=blog.ihtw.moe&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.ihtw.moe" width="auto" height="32"></a>
-
-------
+<a href="https://github.com/JohnsonRan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+JohnsonRan+%F0%9F%91%8B;A+21+y.o+random+noob;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" alt="Typing SVG" />
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Android%2016-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/iOS%2026-000000?style=for-the-badge&logo=ios&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/ProxmoxVE-1D99F3?logo=proxmox&style=for-the-badge" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" style="display: inline-block" />
+  <a href="https://blog.ihtw.moe"><img src="https://img.shields.io/website?down_message=Offline&label=blog.ihtw.moe&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.ihtw.moe&logo=rss&logoColor=white" /></a>
+  <a href="https://t.me/JohnsonRan"><img src="https://img.shields.io/badge/Telegram-@JohnsonRan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:me@ihtw.moe"><img src="https://img.shields.io/badge/Email-me@ihtw.moe-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JohnsonRan?tab=followers"><img src="https://img.shields.io/github/followers/JohnsonRan?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
+</p>
+
+</div>
+
+## 🙋 About Me
+
+- 🎓 A *student* of **[@HMUniversity](https://github.com/HMUniversity)**
+- 🗾 Living in Japan, currently learning Japanese
+- 🤖 Recently tinkering with AI agents & GitHub Actions automation
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,py,go,vue,html,css,bash,linux,docker,githubactions,cloudflare,nginx&perline=14" />
+</p>
+
+## 🖥️ Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPldpbmRvd3MgMTE8L3RpdGxlPjxwYXRoIGQ9Ik0wLDBIMTEuMzc3VjExLjM3MkgwWk0xMi42MjMsMEgyNFYxMS4zNzJIMTIuNjIzWk0wLDEyLjYyM0gxMS4zNzdWMjRIMFptMTIuNjIzLDBIMjRWMjRIMTIuNjIzIi8%2BPC9zdmc%2B" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS%2026-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%2016-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
 </p>
 
 ## 💻 My Specs
 
 <p>
-  <img src="https://img.shields.io/badge/iPhone%2017%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Apple%20Watch%20S11-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/MacBook%20Air%20M4-000000?style=for-the-badge&logo=apple&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/AMD-9950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/RTX-5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen%209%209950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%205080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacBook%20Air-M4-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iPhone-17%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple%20Watch-S11-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/RobotStudio-FF9E0F.svg?style=for-the-badge&logo=abb-robotstudio&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/GX%20WORK%202-E60012.svg?style=for-the-badge&logo=Mitsubishi&logoColor=white" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/Simens-TIA%20PORTAL%20V18-009999.svg?style=for-the-badge&logo=siemens&logoColor=white" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlZpc3VhbCBTdHVkaW8gQ29kZTwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABB-RobotStudio-FF000F?style=for-the-badge&logo=abb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mitsubishi-GX%20Works2-E60012?style=for-the-badge&logo=mitsubishi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siemens-TIA%20Portal%20V18-009999?style=for-the-badge&logo=siemens&logoColor=white" />
 </p>
 
+## 📊 Stats
 
--------
-### 📫 Contact Me
-- Telegram: [@JohnsonRan](https://t.me/JohnsonRan)
-- Email: me@ihtw.moe
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JohnsonRan/JohnsonRan/metrics-renders/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnsonRan/JohnsonRan/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JohnsonRan/JohnsonRan/output/github-snake.svg" />
+</picture>
+
+<sub>👀 Visitors</sub><br/>
+<img src="https://count.getloli.com/get/@JohnsonRan?theme=3d-num" alt="Visitors" />
+
+</div>
