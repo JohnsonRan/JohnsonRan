@@ -1,12 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/JohnsonRan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+JohnsonRan+%F0%9F%91%8B;A+21+y.o+random+noob;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" alt="Typing SVG" />
-</a>
-
 <p>
   <a href="https://blog.ihtw.moe"><img src="https://img.shields.io/website?down_message=Offline&label=blog.ihtw.moe&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.ihtw.moe&logo=rss&logoColor=white" /></a>
-  <a href="https://t.me/JohnsonRan"><img src="https://img.shields.io/badge/Telegram-@JohnsonRan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:me@ihtw.moe"><img src="https://img.shields.io/badge/Email-me@ihtw.moe-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/JohnsonRan?tab=followers"><img src="https://img.shields.io/github/followers/JohnsonRan?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
 </p>
